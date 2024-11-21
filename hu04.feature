@@ -13,4 +13,4 @@ Feature: Búsqueda de servicios
     Given un aventurero está en la página principal
     When ingresa el precio minimo y maximo que quisiera pagar por un servicio
     And hace clic en "Buscar"
-    Then debería ver un mensaje que indica "No se encontraron resultados para ese rango de precios'"
+    Then debería ver un mensaje que indica "No se encontraron resultados para ese rango de precios"
